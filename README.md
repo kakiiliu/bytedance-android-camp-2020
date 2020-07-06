@@ -2,6 +2,10 @@
 
 ---
 
+**手机型号：HUAWEI P20** （5.8英寸，2244*1080像素）
+
+
+
 **Lec1**
 
 - 简单交互：ImageView, Button, TextView, RadioButton, CheckBox, EditText等
