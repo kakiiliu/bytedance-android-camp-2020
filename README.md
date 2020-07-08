@@ -24,6 +24,17 @@
 - 屏幕旋转时显示onStop（通过Toast）
 - 统计页面所有view的个数
   - 递归
-  - getChildCount(), getChildAt
+  - getChildCount(), getChildAt()
 
 *P.S.*通过intent进入新的界面，要记得在manifest中添加相应的activity
+
+
+
+**Lec3**
+
+- lottie，SeekBar调整进度
+- scale，alpha动画并组合
+  - 按照老师的要求，但是最大的时候正方形会超出我的手机边界
+- TabLayout，ViewPager，Lottie淡出RecyclerView淡入
+  - Lottie淡出RecyclerView淡入尚未完成，明日继续
+
