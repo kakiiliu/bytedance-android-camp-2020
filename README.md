@@ -38,3 +38,11 @@
 - TabLayout，ViewPager，Lottie淡出RecyclerView淡入
   - Lottie淡出RecyclerView淡入尚未完成，明日继续
 
+
+
+**Lec4**
+
+- 绘制时钟界面，包括时针、分针、秒针（长短、粗细不同）
+- 时针、分针、秒针随时间跳动
+- 绘制表盘上的数字
+- 用点绘制表盘刻度
