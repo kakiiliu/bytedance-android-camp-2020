@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidStudy</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="fullscreen">Full</string>
+    <string name="smallscreen">Small</string>
+</resources>
